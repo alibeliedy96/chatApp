@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="registration">Registration</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="success">success</string>
+    <string name="ok">ok</string>
+    <string name="error">error</string>
+    <string name="field_empty">field is empty</string>
+    <string name="registered_successfully">registered successfully</string>
+    <string name="room_name">room name</string>
+    <string name="loading">loading</string>
+    <string name="login">login</string>
+    <string name="don_t_have_account">do not have email ?</string>
+    <string name="register">register</string>
+    <string name="Registration">registration</string>
+    <string name="have_account">have account ?</string>
+    <string name="invalide_email_or_password">invalid email or password</string>
+    <string name="required">required</string>
+    <string name="invalidEmail">invalid Email</string>
+    <string name="passwordError">password Error</string>
+    <string name="email_registerd_before">email registerd before</string>
+    <string name="welcome">welcome</string>
+</resources>
